@@ -25,8 +25,8 @@ A web portal for NDMA Pakistan that shows how acidity, heat and oxygen in Pakist
 | Marine heatwave days a year, 2021-2025, against the 1991-2020 normal. | Coral habitat class by aragonite saturation, 2020-2024: 37% of the Makran shelf is now marginal. |
 | ![Bar chart of surface pH for the whole zone, falling from 1985 to 2024, with a trend line.](screens/oi-analysis.webp) | ![The findings page with cards for acidification, warming, marine heatwaves, oxygen and overall climate pressure.](screens/oi-findings.webp) |
 | Surface pH through time, 1985-2024, with its trend. | The main findings, each with what it means. |
-| ![Difference map of surface pH, 2015 to 2024 minus 1985 to 1994, lower in every cell.](screens/oi-difference.webp) |  |
-| Change in surface pH, 2015-2024 minus 1985-1994: lower everywhere. |  |
+| ![Difference map of surface pH, 2015 to 2024 minus 1985 to 1994, lower in every cell.](screens/oi-difference.webp) | ![Oxygen at the seabed, mean 2004-2024: a low-oxygen band along the shelf edge](screens/oi-oxygen.webp) |
+| Change in surface pH, 2015-2024 minus 1985-1994: lower everywhere. | Oxygen at the seabed, 2004-2024: a low-oxygen band along the shelf edge, near zero in places off Sindh |
 
 ## Built with
 
@@ -34,7 +34,7 @@ Mapbox GL JS, JavaScript, Chart.js, Python
 
 ## Data
 
-Copernicus Marine (CMEMS-LSCE), NOAA OISST, ERSSTv5, FAO FishStat
+Copernicus Marine (CMEMS-LSCE), NOAA OISST, ERSSTv5, FAO FishStat, GOBAI-O2 HR (preliminary)
 
 ## Code and data access
 
